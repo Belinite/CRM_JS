@@ -1,0 +1,4 @@
+﻿function OnLoad() {
+    CheckDogovorOnChange.OnChange();
+}
+
